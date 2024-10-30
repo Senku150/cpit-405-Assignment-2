@@ -1,0 +1,26 @@
+form{
+    border: 0.3em solid blueviolet;
+    color: blue;
+    font-size: 2em;
+}
+select{
+    font-size: 0.8em;
+}
+ form label{
+    margin-left: 4em;
+}
+
+
+div{
+    border: 0.2em solid blueviolet;
+    color: blue;
+    margin-top:1em ;
+    font-size: 4em;
+}
+ul{
+    padding-left: 1em;
+}
+
+
+
+
